@@ -156,6 +156,7 @@ ul li a:hover {
 header .header-chat {
     display: none;
 }
+
 @media only screen and (min-width: 1000px) {
     header .header-brand img{
     width: 100px;
@@ -342,6 +343,14 @@ footer ul li a {
         margin-bottom: 10px;
 }
 
+.footer-designer {
+    color: #fff;
+    clear: both;
+    text-align: center;
+    font-size: 12px;
+    text-emphasis-position: below;
+    
+}
 @media only screen and (min-width: 1000px) {
     .footer-links-case{
         display: block;
